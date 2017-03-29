@@ -30,4 +30,5 @@
 
 # build files
 build/
-config-file/build/
+_builds/
+cmake-build-debug/
